@@ -17,7 +17,7 @@
 
 <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">
   <b>Languages:</b> Python, HTML, CSS<br>
-  <b>Data Science Libraries:</b> Pandas, Matplotlib, Sci-Kit Learn, NumPy<br>
+  <b>Data Science Libraries:</b> Pandas, Matplotlib, Sci-Kit Learn, Re, NLTK, Numpy NumPy<br>
   <b>Machine Learning Concepts:</b> Regression, Classification, Clustering, Natural Language Processing (NLP)<br>
   <b>Version Control:</b> GitLab, GitHub<br>
   <b>Data Visualization:</b> Tableau, Powerpoint<br>

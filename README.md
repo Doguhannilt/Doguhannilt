@@ -20,7 +20,7 @@
   <b>Data Science Libraries:</b> Pandas, Matplotlib, Sci-Kit Learn, NumPy<br>
   <b>Machine Learning Concepts:</b> Regression, Classification, Clustering, Natural Language Processing (NLP)<br>
   <b>Version Control:</b> GitLab, GitHub<br>
-  <b>Data Visualization:</b> Tableau<br>
+  <b>Data Visualization:</b> Tableau, Powerpoint<br>
   <b>Database:</b> MySQL
 </p>
 

@@ -22,6 +22,7 @@
   <b>Version Control:</b> GitLab, GitHub<br>
   <b>Data Visualization:</b> Tableau, Powerpoint<br>
   <b>Database:</b> MySQL
+  <b>IDE:</b> Spyder, Visual Studio, Jupyter Notebook, Notepad++, PopSQL
 </p>
 
 <!-- Contact Information section -->

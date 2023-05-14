@@ -16,7 +16,7 @@
 <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">💻 Languages and Tools</h3>
 
 <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">
-  <b>Languages:</b> Python<br>
+  <b>Languages:</b> Python, HTML, CSS<br>
   <b>Data Science Libraries:</b> Pandas, Matplotlib, Sci-Kit Learn, NumPy<br>
   <b>Machine Learning Concepts:</b> Regression, Classification, Clustering, Natural Language Processing (NLP)<br>
   <b>Version Control:</b> GitLab, GitHub<br>

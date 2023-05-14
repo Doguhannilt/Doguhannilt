@@ -21,7 +21,7 @@
   <b>Machine Learning Concepts:</b> Regression, Classification, Clustering, Natural Language Processing (NLP)<br>
   <b>Version Control:</b> GitLab, GitHub<br>
   <b>Data Visualization:</b> Tableau, Powerpoint<br>
-  <b>Database:</b> MySQL
+  <b>Database:</b> MySQL <br>
   <b>IDE:</b> Spyder, Visual Studio, Jupyter Notebook, Notepad++, PopSQL
 </p>
 

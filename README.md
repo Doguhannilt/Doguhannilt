@@ -41,9 +41,14 @@
 </div>
 
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Doguhannilt&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Doguhannilt&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doguhannilt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doguhannilt&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+</p>
+
 <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">About Me</h3>
 
 <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">Welcome to my GitHub profile! I'm a data scientist based in Turkey, specializing in machine learning and its applications. With a strong background in Python and a keen interest in data analysis, I'm dedicated to exploring and solving complex problems using cutting-edge techniques.</p>

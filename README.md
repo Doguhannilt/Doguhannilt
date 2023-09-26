@@ -25,6 +25,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 <div id="header" align="center">
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rmo45iv7b4zd9l3259bhfemti&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rmo45iv7b4zd9l3259bhfemti&redirect=true)
@@ -47,19 +48,17 @@
 </div>
 
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Doguhannilt&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
+<div align="center">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doguhannilt&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </p>
+
 <div align="center">
   <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">About Me</h3>
   
   <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">Welcome to my GitHub profile! I'm a data scientist based in Turkey, specializing in machine learning and its applications. With a strong background in Python and a keen interest in data analysis, I'm dedicated to exploring and solving complex problems using cutting-edge techniques.</p>
-
-<div align="center">
+</div>
 
 </div>
   <!-- Current Focus and Learning section -->

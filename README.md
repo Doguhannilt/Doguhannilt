@@ -1,4 +1,5 @@
 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/>
 </div>
@@ -23,6 +24,11 @@
   Heyyooo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+<div id="header" align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rmo45iv7b4zd9l3259bhfemti&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rmo45iv7b4zd9l3259bhfemti&redirect=true)
+
 </div>
 
 <div align="center">

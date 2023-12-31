@@ -59,10 +59,6 @@
 </div>
 
 </div>
-  <!-- Current Focus and Learning section -->
-  <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">🌱 Current Focus and Learning</h3>
-  
-  <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">I'm currently focused on expanding my knowledge of machine learning concepts, particularly in the field of Natural Language Processing (NLP). I find the ability to analyze and understand human language fascinating, and I'm excited to apply NLP techniques to various projects.</p>
 <br>
 <blockquote>
   <p align="center">"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."</p>

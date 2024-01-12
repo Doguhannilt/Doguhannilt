@@ -1,9 +1,8 @@
 
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ljZWY5NDZhaHpycHFhMXRtbGxvYTZ0dzdhcDJod3lpaG5tY3dmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </div>
-
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/doguhan-ilter-350008258/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,16 +14,10 @@
   <a href="https://soundcloud.com/asluna">
       <img src="https://img.shields.io/badge/SoundCloud-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Badge"/>
   </a>
+</div>
 
-  
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> <br>
-  <h1>
-  Heyyooo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+<br>
+
 
 <div id="header" align="center">
   
@@ -32,66 +25,85 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"width="40" height="40" ></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"width="40" height="40" ></img>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"width="40" height="40"></img>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40"></img>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"width="40" height="40"></img>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg"width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"width="40" height="40"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"width="40" height="40"></img>
-</div>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doguhannilt&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
-</p>
 
 <div align="center">
   <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">About Me</h3>
   
-  <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">Welcome to my GitHub profile! I'm a developer from Turkey</p>
-</div>
-
+  <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">
+    A developer who is curious about almost everything that includes code. Knows MERN and AI
+  </p>
 </div>
 <br>
-<blockquote>
-  <p align="center">"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."</p>
-  <p align="center">— Marcus Aurelius</p>
-</blockquote>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"width="40" height="40" ></img>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"width="40" height="40"></img>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40"></img>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"width="40" height="40"></img> 
+</div>
 <br>
 
   <!-- Languages and Tools section -->
-  <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">💻 Languages and Tools</h3>
-  
-  <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">
-    <b>Languages:</b> Python, JavaScript<br>
-    <b>Web Development: MERN</b>
-    <b>Data Science Libraries:</b> Pandas, Matplotlib, Sci-Kit Learn, Re, NLTK, NumPy<br>
-    <b>Machine Learning Concepts:</b> Regression, Classification, Clustering, Natural Language Processing (NLP)<br>
-    <b>TensorFlow&Keras</b><br>
-    <b>PyTorch</b><br>
-    <b>Version Control:</b> GitLab, GitHub<br>
-    <b>Data Visualization:</b> Tableau, Powerpoint<br>
-    <b>Database:</b> MySQL <br>
-    <b>IDE:</b> Spyder, Visual Studio, Jupyter Notebook, Notepad++, PopSQL, Google Colab
-  </p>
-  
+  <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">💻 Tech Stack</h3>
+  <div align="center">
+<table>
+    <tr>
+      <th>Languages</th>
+      <td>Python, Javascript</td>
+    </tr>
+    <tr>
+      <th>Web Development</th>
+      <td>MERN Fullstack</td>
+    </tr>
+    <tr>
+      <th>ML Concepts</th>
+      <td>Regression, Classification</td>
+    </tr>
+    <tr>
+      <th>DL Concepts</th>
+      <td>Natural Language Processing</td>
+    </tr>
+    <tr>
+      <th>Version Control</th>
+      <td>Git</td>
+    </tr>
+    <tr>
+      <th>Data Visualization</th>
+      <td>Tableau, Matplotlib</td>
+    </tr>
+    <tr>
+      <th>Database</th>
+      <td>MySql, MongoDB, PostgreSql</td>
+    </tr>
+    <tr>
+    <th>CSS Frameworks</th>
+      <td>TailwindCSS, ChakraUI</td>
+    </tr>
+    <tr>
+      <th>IDE</th>
+      <td>Visual Studio, Jupyter Notebook, PopSQL, Google Colab</td>
+    </tr>
+  </table>
+  </div>
+  <br>
   <!-- Contact Information section -->
   <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">📫 Get in Touch</h3>
-  
+
+  <div align="center">
   <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">
     If you have any questions, collaborations, or exciting opportunities, feel free to reach out to me at
-    <a href="mailto:doguhannilt@gmail.com">doguhannilt@gmail.com</a>
+    <a href="mailto:doguhannilt@gmail.com">doguhannilt@gmail</a> or Discord: doguhan_i
   </p>
+  </div>
 </div>
 
-<div align="center">
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rmo45iv7b4zd9l3259bhfemti)
-</div>
+

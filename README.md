@@ -31,7 +31,7 @@
   <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">About Me</h3>
   
   <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">
-    A developer who is curious about almost everything that includes code. Knows MERN and AI
+    A developer who is curious about almost everything that includes code. Knows <strong>MERN</strong> and <strong>AI</strong>
   </p>
 </div>
 <br>

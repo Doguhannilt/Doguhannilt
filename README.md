@@ -91,12 +91,11 @@
   <!-- Contact Information section -->
   <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">📫 Get in Touch</h3>
 
-  <div align="center">
-  <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">
-    If you have any questions, collaborations, or exciting opportunities, feel free to reach out to me at
-    <a href="mailto:doguhannilt@gmail.com">doguhannilt@gmail</a> or Discord: doguhan_i
-  </p>
-  </div>
+<div align="center">
+  
+  **MAIL:** doguhannilt@gmail.com
+  
+  **DISCORD:** doguhannilt
 </div>
 
 

@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <th>Web Development</th>
-      <td>MERN Fullstack</td>
+      <td>React, Nodejs, Expressjs, MongoDB, Redux</td>
     </tr>
     <tr>
       <th>ML Concepts</th>
@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <th>DL Concepts</th>
-      <td>Natural Language Processing</td>
+      <td>Basic Natural Language Processing Techniques</td>
     </tr>
     <tr>
       <th>Version Control</th>
@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <th>Database</th>
-      <td>MySql, MongoDB, PostgreSql</td>
+      <td>SQL databases</td>
     </tr>
     <tr>
     <th>CSS Frameworks</th>

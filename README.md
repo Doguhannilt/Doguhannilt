@@ -1,19 +1,14 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ljZWY5NDZhaHpycHFhMXRtbGxvYTZ0dzdhcDJod3lpaG5tY3dmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ljZWY5NDZhaHpycHFhMXRtbGxvYTZ0dzdhcDJod3lpaG5tY3dmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
 <br>
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/doguhan-ilter-350008258/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
-<br>
-
-
-
-
 <div align="center">
-  <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">About Me</h3>
+  <h3 style="font-size: 18px; color: #555; " align="center">About Me</h3>
   
   <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">
     A developer who is curious about almost everything that includes code. Knows <strong>MERN</strong> and <strong>AI</strong>

@@ -81,4 +81,8 @@
   **DISCORD:** doguhannilt
 </div>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=doguhannilt&label=Profile%20Views&color=6&icon=0&pretty=true" />
+</a>
+
 

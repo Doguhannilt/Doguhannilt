@@ -3,15 +3,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ljZWY5NDZhaHpycHFhMXRtbGxvYTZ0dzdhcDJod3lpaG5tY3dmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
 <br>
-<div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/doguhan-ilter-350008258/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</div>
-<br></br>
-<div align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=rmo45iv7b4zd9l3259bhfemti">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rmo45iv7b4zd9l3259bhfemti" alt="Data Card for Spotify" width="600">
-  </a>
-</div>
 
 
 <div align="center">
@@ -33,6 +24,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"width="40" height="40"></img> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"width="40" height="40"></img> 
 </div>
+<br></br>
+<div align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=rmo45iv7b4zd9l3259bhfemti">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rmo45iv7b4zd9l3259bhfemti" alt="Data Card for Spotify" width="600">
+  </a>
+</div>
+
+
+
 <br>
 
   <!-- Languages and Tools section -->
@@ -82,6 +82,15 @@
   <h3 style="font-size: 18px; color: #555; margin-bottom: 10px;" align="center">📫 Get in Touch</h3>
 
 <div align="center">
+<div id="badges" align="center">
+   <a href="https://www.linkedin.com/in/doguhan-ilter-350008258/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
+   </a>
+  
+   <a href="https://doguhanniltasc.vercel.app/">
+      <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" width="100"/>
+   </a>
+</div>
   
   **MAIL:** doguhannilt@gmail.com
   

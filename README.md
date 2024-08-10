@@ -6,6 +6,13 @@
 <div id="badges" align="center">
    <a href="https://www.linkedin.com/in/doguhan-ilter-350008258/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
+<br></br>
+<div align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=rmo45iv7b4zd9l3259bhfemti">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rmo45iv7b4zd9l3259bhfemti" alt="Data Card for Spotify" width="600">
+  </a>
+</div>
+
 
 <div align="center">
   <h3 style="font-size: 18px; color: #555; " align="center"><u><a href="https://doguhanniltasc.vercel.app/">About Me</a></u></h3>

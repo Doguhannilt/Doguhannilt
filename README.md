@@ -7,6 +7,9 @@
 
 <div align="center">
   <h3 style="font-size: 18px; color: #555; " align="center"><u><a href="https://doguhanniltasc.vercel.app/">About Me</a></u></h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=0FF7E8&center=true&vCenter=true&width=435&lines=Doguhan+Ilter+;I+do+what+i+wanna+do%2C+welcome.)](https://git.io/typing-svg)
+
   
   <p style="font-size: 16px; color: #555; line-height: 1.4; text-align: center;">
     A developer who is curious about almost everything that includes code. Knows <strong>MERN</strong> and <strong> a little bit AI</strong>

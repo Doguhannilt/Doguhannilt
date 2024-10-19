@@ -25,7 +25,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"width="40" height="40"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"width="40" height="40"></img> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"width="40" height="40"></img> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"width="40" height="40"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"width="40" height="40"></img> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"width="40" height="40"></img> 
+
 </div>
 <br></br>
 <div align="center">

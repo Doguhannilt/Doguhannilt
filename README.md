@@ -44,7 +44,7 @@
 <table>
     <tr>
       <th>Languages</th>
-      <td>Python, <strong>Javascript</strong></td>
+      <td>Java, <strong>Javascript</strong></td>
     </tr>
     <tr>
       <th>Web Development</th>

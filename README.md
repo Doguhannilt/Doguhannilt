@@ -49,6 +49,10 @@
       <th>Languages</th>
       <td>Java, <strong>Javascript</strong></td>
     </tr>
+  <tr>
+    <th>Java Framework</th>
+    <td>Springboot</td>
+  </tr>
     <tr>
       <th>Web Development</th>
       <td>React, Nodejs, Expressjs, MongoDB, Redux, RTK Query, Docker</td>

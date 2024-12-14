@@ -4,7 +4,7 @@
 
 ### [About Me](https://doguhanniltasc.vercel.app/)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=0FF7E8&center=true&vCenter=true&width=435&lines=Doguhan+Ilter;I+do+what+i+wanna+do%2C+welcome.)](https://git.io/typing-svg)
+
   
 Developer with a strong curiosity for all things code-related. Proficient in **MERN** stack and exploring **AI** concepts.
   
@@ -35,12 +35,6 @@ Developer with a strong curiosity for all things code-related. Proficient in **M
 
 #### IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
-
-#### IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)

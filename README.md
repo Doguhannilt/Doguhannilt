@@ -35,12 +35,6 @@ Developer with a passion for coding and problem-solving. Proficient in **MERN St
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
----
-
-## 🎶 Spotify Vibes
-[![Spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=rmo45iv7b4zd9l3259bhfemti)](https://data-card-for-spotify.herokuapp.com/card?user_id=rmo45iv7b4zd9l3259bhfemti)
-
----
 
 ## 📫 Let's Connect!
 

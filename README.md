@@ -8,6 +8,12 @@ Developer with a passion for coding and problem-solving. Proficient in **MERN St
 
 ---
 
+<div align="center">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=rmo45iv7b4zd9l3259bhfemti">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rmo45iv7b4zd9l3259bhfemti" alt="Data Card for Spotify">
+</a>
+</div>
+
 ## 💻 Tech Stack
 
 ### 🌐 Languages & Frameworks
